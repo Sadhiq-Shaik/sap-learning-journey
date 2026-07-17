@@ -580,8 +580,6 @@ Topics
 - Company Code
 - Plant
 - Storage Location
-- Purchasing Organization
-- Sales Organization
 
 ---
 
