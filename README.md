@@ -52,7 +52,7 @@ Long-term focus areas include:
 | SAP Data Dictionary (DDIC)  | ✅ Completed  |
 | Core ABAP Programming       | 🔄 In Progress|
 | Open SQL                    | ⏳ Planned    |
-| Core ABAP Programming       | ⏳ Planned    |
+| Advanced ABAP Programming   | ⏳ Planned    |
 | Reports & Modularization    | ⏳ Planned    |
 | Object-Oriented ABAP        | ⏳ Planned    |
 | CDS Views                   | ⏳ Planned    | 
@@ -265,6 +265,7 @@ For detailed progress, see:
 
 - `LEARNING_PROGRESS.md`
 - `Week-01/README.md`
+- `Week-02/README.md`
 - `Week-01/Week-01-Summary.md`
 - `Week-02/Week-02-Summary.md`
 
