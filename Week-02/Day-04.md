@@ -19,6 +19,7 @@ Today I learned three important areas:
 - ABAP Data Objects
 - Naming Conventions
 
+
 I also learned how these concepts are connected to practical business programming and why choosing the correct data type and meaningful names is important in professional ABAP development.
 
 ---
