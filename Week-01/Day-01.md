@@ -1,9 +1,5 @@
 # Week 1 - Day 1
 
-## Date
-
-12 July 2026
-
 ---
 
 # Learning Objectives
