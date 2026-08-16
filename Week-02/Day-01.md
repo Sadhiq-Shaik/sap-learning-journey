@@ -2,11 +2,6 @@
 
 > **Learning Goal:** Build the technical foundation of SAP ABAP by understanding the SAP Data Dictionary (DDIC), Domains, and Data Elements.
 
----
-
-# 📅 Date
-
-03 August 2026
 
 ---
 
