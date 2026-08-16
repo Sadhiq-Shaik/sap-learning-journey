@@ -2,11 +2,7 @@
 
 > **Learning Goal:** Understand how SAP stores business data, organizes related fields, and connects different business tables using relationships.
 
----
-
-# 📅 Date
-
-05 August 2026
+Week 2 - Day 2 .
 
 ---
 
