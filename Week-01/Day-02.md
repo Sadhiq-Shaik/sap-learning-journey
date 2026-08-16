@@ -1,7 +1,5 @@
 # Week 1 - Day 2
 
-📅 **Date:** 13 July 2026
-
 ⏱ **Study Time:** ~5 Hours
 
 📚 **Module:** SAP Architecture & SAP Ecosystem
@@ -439,15 +437,15 @@ Today's frequently asked interview topics:
 
 # Quiz Performance
 
-| Module | Score |
-|---------|-------|
+| Module           | Score |
+|------------------|-------|
 | SAP Architecture | 3 / 3 |
-| SAP ECC | 5 / 5 |
-| SAP HANA | 5 / 5 |
-| SAP S/4HANA | 5 / 5 |
-| SAP GUI | 5 / 5 |
-| SAP Fiori | 5 / 5 |
-| SAP BTP | 5 / 5 |
+| SAP ECC          | 5 / 5 |
+| SAP HANA         | 5 / 5 |
+| SAP S/4HANA      | 5 / 5 |
+| SAP GUI          | 5 / 5 |
+| SAP Fiori        | 5 / 5 |
+| SAP BTP          | 5 / 5 |
 
 Overall Quiz Accuracy
 
