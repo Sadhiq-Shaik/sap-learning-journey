@@ -178,12 +178,12 @@ A data type defines the technical characteristics and kind of data that an ABAP 
 
 ### Examples
 
-```abap
-Student Name → C
-Student ID   → N / I
-Age          → I
-Fee Amount   → P
-Date of Birth → D
+``` text abap
+Student Name   → C
+Student ID     → N / I
+Age            → I
+Fee Amount     → P
+Date of Birth  → D
 Admission Time → T
 ```
 ---
@@ -946,6 +946,8 @@ Business-oriented ABAP exercises
 
 The learning approach will progressively move toward:
 
+```
+
 Concept
   ↓
 Example
@@ -962,10 +964,14 @@ Debug
   ↓
 Independent Development
 
+```
+
 ---
 
 ## 🏁 Week 2 Completion
 ## ✅ WEEK 2 — COMPLETED
+
+```
 
 ┌─────────────────────────────────────────────┐
 │                                             │
@@ -977,12 +983,16 @@ Independent Development
 │                                              │
 └─────────────────────────────────────────────┘
 
+```
+
 ## Current Position
 
 Completed: 2 / 24 Weeks
+```
 
 [██░░░░░░░░░░░░░░░░░░░░] 8%
 
+```
 ## Next Milestone
 
 🚀 Week 3 — Core ABAP Programming
