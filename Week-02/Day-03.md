@@ -2,11 +2,6 @@
 
 > **Learning Goal:** Understand how SAP retrieves business data efficiently, assists users during data entry, and protects business data from simultaneous modifications.
 
----
-
-# 📅 Date
-
-07 August 2026
 
 ---
 
