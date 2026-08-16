@@ -1,6 +1,5 @@
 # 📘 Week 1 - Day 5 | SAP Modules, Document Flow & SAP Data Fundamentals
 
-**Date: 16th July 2026  
 **Learning Track:** SAP Fundamentals → SAP ABAP Developer  
 **Status:** ✅ Completed  
 **Modules Completed:** 3
