@@ -1,0 +1,24 @@
+=============================================
+       FLIGHT BOOKING BUSINESS REPORT
+=============================================
+INPUT / VALIDATION SUMMARY
+Total Bookings       : 12
+Valid Bookings       : 7
+Rejected Bookings    : 5
+Cancelled Bookings   : 1
+Revenue Eligible     : 6
+---------------------------------------------
+REJECTION / EXCEPTION REPORT
+---------------------------------------------
+Booking: B002 Passenger: PASSENGER 2 Reason: INVALID_FARE
+Booking: B005 Passenger: PASSENGER 5 Reason: INVALID_FARE
+Booking: B007 Passenger: PASSENGER 7 Reason: MISSING_CARRIER
+Booking: B010 Passenger: PASSENGER 10 Reason: INVALID_STATUS
+Booking: B003 Passenger: PASSENGER 12 Reason: DUPLICATE_BOOKING_ID
+---------------------------------------------
+REVENUE SUMMARY
+---------------------------------------------
+Carrier: LH Currency: EUR Passengers: 2 Revenue: 970.00
+Carrier: AI Currency: INR Passengers: 4 Revenue: 20000.00
+Carrier: LH Currency: USD Passengers: 3 Revenue: 1800.00
+Carrier: LH Currency: GBP Passengers: 1 Revenue: 650.00
